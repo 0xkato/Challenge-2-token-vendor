@@ -1,0 +1,11 @@
+{
+<<<<<<< HEAD
+  "localhost_YourTokenAddress": "0x172076E0166D1F9Cc711C77Adf8488051744980C",
+  "localhost_VendorAddress": "0x4EE6eCAD1c2Dae9f525404De8555724e3c35d07B"
+=======
+  "localhost_ExampleExternalContractAddress": "0x79E8AB29Ff79805025c9462a2f2F12e9A496f81d",
+  "localhost_StakerAddress": "0x0Dd99d9f56A14E9D53b2DdC62D9f0bAbe806647A",
+  "rinkeby_ExampleExternalContractAddress": "0xB1e4341F7D2247afa5Eb625508467eD074d402b2",
+  "rinkeby_StakerAddress": "0x60953B3A013A2B25578D58Eee48C0A51F7Ee3747"
+>>>>>>> 590e8ba876befcf70f6d261936c60f34ec589bc1
+}
